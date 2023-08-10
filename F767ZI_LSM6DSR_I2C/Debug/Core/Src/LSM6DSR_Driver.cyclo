@@ -1,0 +1,7 @@
+LSM6DSR_Driver.c:15:9:LSM6DSR_Initialise	12
+LSM6DSR_Driver.c:190:19:LSM6DSR_Read_Temperature	1
+LSM6DSR_Driver.c:207:19:LSM6DSR_Read_Acceleration	1
+LSM6DSR_Driver.c:232:19:LSM6DSR_Read_Gyroscope	1
+LSM6DSR_Driver.c:257:19:LSM6DSR_Read_Register	1
+LSM6DSR_Driver.c:262:19:LSM6DSR_Read_Registers	1
+LSM6DSR_Driver.c:267:19:LSM6DSR_Write_Register	1
